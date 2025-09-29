@@ -19,3 +19,7 @@ for n in sizes:
  print("Image saved as",filename)
  plt.close()
 print("done vA ex1")
+
+
+# answer 4 (What I observe): At first the bars jump around, but with big n it looks like the true probabilities.
+# Answer 5: The odd results balance out, pulling everything back near the average = regression to mean.
